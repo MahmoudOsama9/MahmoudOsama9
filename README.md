@@ -1,22 +1,25 @@
+<!-- HEADER -->
 <div align="center">
 
-<!-- Minimalist Space Header -->
+<!-- Typing SVG Header -->
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=40&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=✦+Mahmoud+Osama+✦;⚡+Software+Engineer+⚡;✨+AI+Specialist+✨" alt="Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=38&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=650&lines=✦+Mahmoud+Osama+✦;⚡+Software+Engineer+⚡;✨+AI+Specialist+✨" alt="Typing SVG" />
 </h1>
 
-<!-- Subtle Divider -->
-<img width="60%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Spark Divider -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 
-<!-- Clean Badges -->
+<!-- Stats Badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=mahmoudosama9&label=visitors&color=white&style=flat-square&labelColor=000000" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/mahmoudosama9?label=followers&style=flat-square&color=white&labelColor=000000" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=mahmoudosama9&label=Visitors&color=000000&style=flat-square&labelColor=FFFFFF" alt="Visitors"/>
+  <img src="https://img.shields.io/github/followers/mahmoudosama9?label=Followers&style=flat-square&color=000000&labelColor=FFFFFF" alt="Followers"/>
 </p>
 
 </div>
 
-## ✨ About
+---
+
+## ✨ About Me
 
 ```javascript
 const developer = {
@@ -35,8 +38,6 @@ const developer = {
   currentFocus: "Building AI-powered applications",
   motto: "Code with purpose, create with passion ✦"
 };
-```
-
 ## ⚡ Tech Stack
 
 <div align="center">
