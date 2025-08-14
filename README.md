@@ -27,7 +27,7 @@
 
 ## 🌌 COSMIC IDENTITY
 
-```javascript
+```js
 const cosmicDeveloper = {
   identity: {
     name: "Mahmoud Osama",
@@ -158,7 +158,7 @@ console.log(cosmicDeveloper.getStatus());
 
 ## 🌟 SIGNATURE PROJECTS
 
-```yaml
+```yml
 🚀 Project Highlights:
   - name: "AI-Powered Web Applications"
     tech: [React, Node.js, TensorFlow.js, MongoDB]
