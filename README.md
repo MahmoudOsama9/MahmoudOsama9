@@ -31,9 +31,11 @@
 
 **Database & Cloud**  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat-square&logo=mysql&logoColor=white)
+![MS SQL](https://img.shields.io/badge/-MS%20SQL-000?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-000?style=flat-square&logo=redis&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-000?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-000?style=flat-square&logo=docker&logoColor=white)
+
 
 **AI/ML**  
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?style=flat-square&logo=tensorflow&logoColor=white)
