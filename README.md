@@ -62,7 +62,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/mahmoud-osama](https://www.linkedin.com/in/mahmoud-osama-8b7602290/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-osama-8b7602290/)
 [![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudosama9441@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahmoudosama9)
 
