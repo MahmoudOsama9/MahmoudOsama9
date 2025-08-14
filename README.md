@@ -2,9 +2,10 @@
 
 <!-- Minimalist Space Header -->
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=40&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=✦+Mahmoud+Osama+✦;⚡+Software+Engineer+⚡; alt="Header" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=40&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=✦+Mahmoud+Osama+✦;⚡+Software+Engineer+⚡" alt="Header" />
 </h1>
 </div>
+
 
 ## ⚡ Tech Stack
 
