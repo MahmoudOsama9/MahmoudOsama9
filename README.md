@@ -4,39 +4,8 @@
 <h1>
   <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=40&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=✦+Mahmoud+Osama+✦;⚡+Software+Engineer+⚡;✨+AI+Specialist+✨" alt="Header" />
 </h1>
-
-<!-- Subtle Divider -->
-<img width="60%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Clean Badges -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=mahmoudosama9&label=visitors&color=white&style=flat-square&labelColor=000000" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/mahmoudosama9?label=followers&style=flat-square&color=white&labelColor=000000" alt="Followers" />
-</p>
-
 </div>
 
-## ✨ About Me
-
-> "Code with purpose, create with passion ✦"
-
-Hi, I’m **Mahmoud Osama** — a **Software Engineer** and **AI Specialist** from Cairo, Egypt 🇪🇬.  
-With **2+ years** of professional experience, I build **scalable, high-performance applications**  
-and craft **intelligent systems** that turn data into impact.
-
-🚀 **What I Do**
-- Develop **full-stack applications** with clean architecture
-- Build & deploy **AI/ML models** for real-world use
-- Design **scalable backend systems** and APIs
-- Explore **cloud and DevOps** for smooth deployments
-
-🪐 **Core Expertise**
-- **Languages**: JavaScript, TypeScript, Python, C#, C++
-- **Specialties**: Full-Stack Development, AI/ML, Software Architecture
-
-🌌 **Current Mission**
-> Merging cutting-edge AI with seamless software engineering  
-> to build tools that empower and inspire.
 ## ⚡ Tech Stack
 
 <div align="center">
@@ -88,37 +57,16 @@ and craft **intelligent systems** that turn data into impact.
 
 </div>
 
-## 🎯 Current Focus
-
-- 🔬 **Research**: Advanced AI/ML algorithms and applications
-- 🛠️ **Building**: Scalable web applications with modern tech stacks
-- 📚 **Learning**: Cloud architecture and DevOps practices
-- 🌱 **Contributing**: Open source projects and community tools
-- ✨ **Exploring**: Emerging technologies in AI and web development
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mahmoudosama9&theme=darkhub&no-frame=true&margin-w=15&column=4&no-bg=true" />
-
-</div>
-
 ## 📫 Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmoud-osama)
-[![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoud.osama@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/mahmoud-osama](https://www.linkedin.com/in/mahmoud-osama-8b7602290/))
+[![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudosama9441@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahmoudosama9)
 
 ---
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=8B8B8D&center=true&vCenter=true&width=400&lines=✦+Thanks+for+visiting+✦;⚡+Let's+build+something+amazing+⚡" />
 
-</div>
-
-<!-- Subtle Footer -->
-<div align="center">
-  <img width="40%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
