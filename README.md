@@ -16,27 +16,27 @@
 
 </div>
 
-## ✨ About
+## ✨ About Me
 
-```javascript
-const developer = {
-  name: "Mahmoud Osama",
-  location: "Cairo, Egypt 🇪🇬",
-  role: "Software Engineer & AI Specialist",
-  experience: "2+ years",
-  
-  expertise: [
-    "Full-Stack Development",
-    "Artificial Intelligence", 
-    "Machine Learning",
-    "Software Architecture"
-  ],
-  
-  currentFocus: "Building AI-powered applications",
-  motto: "Code with purpose, create with passion ✦"
-};
-```
+> "Code with purpose, create with passion ✦"
 
+Hi, I’m **Mahmoud Osama** — a **Software Engineer** and **AI Specialist** from Cairo, Egypt 🇪🇬.  
+With **2+ years** of professional experience, I build **scalable, high-performance applications**  
+and craft **intelligent systems** that turn data into impact.
+
+🚀 **What I Do**
+- Develop **full-stack applications** with clean architecture
+- Build & deploy **AI/ML models** for real-world use
+- Design **scalable backend systems** and APIs
+- Explore **cloud and DevOps** for smooth deployments
+
+🪐 **Core Expertise**
+- **Languages**: JavaScript, TypeScript, Python, C#, C++
+- **Specialties**: Full-Stack Development, AI/ML, Software Architecture
+
+🌌 **Current Mission**
+> Merging cutting-edge AI with seamless software engineering  
+> to build tools that empower and inspire.
 ## ⚡ Tech Stack
 
 <div align="center">
