@@ -2,9 +2,6 @@
 
 # ✦ Mahmoud Osama ✦
 ### ⚡ Software Engineer ⚡
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=500&lines=Building+innovative+solutions;Full-stack+developer;AI%2FML+enthusiast" alt="Typing Animation" />
-
 ---
 
 </div>
@@ -83,7 +80,5 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=✦+Thanks+for+visiting+my+profile+✦;⚡+Let's+build+something+amazing+together+⚡;🚀+Always+learning%2C+always+growing+🚀" />
-
-### **"Code is like humor. When you have to explain it, it's bad."** 
 
 </div>
