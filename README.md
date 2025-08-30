@@ -3,7 +3,9 @@
 # ✦ Mahmoud Osama ✦
 ### ⚡ Software Engineer ⚡
 ---
+
 </div>
+
 ## 🛠️ **Technology Stack**
 
 <div align="center">
